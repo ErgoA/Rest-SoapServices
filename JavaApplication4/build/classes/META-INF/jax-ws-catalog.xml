@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://desktop-ngk4inr:8080/StudentWebApplication/SubjectService?wsdl" uri="wsdl/desktop-ngk4inr_8080/StudentWebApplication/SubjectService.wsdl"/>
+</catalog>
